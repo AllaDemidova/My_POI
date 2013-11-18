@@ -1,0 +1,20 @@
+C:\Новая папка\TestProg\m2mPrototype\m2mPrototype\bin\m2mPrototype.dll
+C:\Новая папка\TestProg\m2mPrototype\m2mPrototype\bin\m2mPrototype.pdb
+C:\Новая папка\TestProg\m2mPrototype\m2mPrototype\obj\Debug\m2mPrototype.dll
+C:\Новая папка\TestProg\m2mPrototype\m2mPrototype\obj\Debug\m2mPrototype.pdb
+J:\Proj\m2mPrototype\m2mPrototype\bin\m2mPrototype.dll
+J:\Proj\m2mPrototype\m2mPrototype\bin\m2mPrototype.pdb
+J:\Proj\m2mPrototype\m2mPrototype\obj\Debug\m2mPrototype.csprojResolveAssemblyReference.cache
+J:\Proj\m2mPrototype\m2mPrototype\obj\Debug\m2mPrototype.dll
+J:\Proj\m2mPrototype\m2mPrototype\obj\Debug\m2mPrototype.pdb
+d:\Alla\m2mPrototype\m2mPrototype\bin\m2mPrototype.dll
+d:\Alla\m2mPrototype\m2mPrototype\bin\m2mPrototype.pdb
+d:\Alla\m2mPrototype\m2mPrototype\obj\Debug\m2mPrototype.csprojResolveAssemblyReference.cache
+d:\Alla\m2mPrototype\m2mPrototype\obj\Debug\m2mPrototype.dll
+d:\Alla\m2mPrototype\m2mPrototype\obj\Debug\m2mPrototype.pdb
+C:\Новая папка\TestProg\m2mPrototype\m2mPrototype\obj\Debug\m2mPrototype.csprojResolveAssemblyReference.cache
+C:\Новая папка\TestProg\v3\m2mPrototype\m2mPrototype\bin\m2mPrototype.dll
+C:\Новая папка\TestProg\v3\m2mPrototype\m2mPrototype\bin\m2mPrototype.pdb
+C:\Новая папка\TestProg\v3\m2mPrototype\m2mPrototype\obj\Debug\m2mPrototype.csprojResolveAssemblyReference.cache
+C:\Новая папка\TestProg\v3\m2mPrototype\m2mPrototype\obj\Debug\m2mPrototype.dll
+C:\Новая папка\TestProg\v3\m2mPrototype\m2mPrototype\obj\Debug\m2mPrototype.pdb

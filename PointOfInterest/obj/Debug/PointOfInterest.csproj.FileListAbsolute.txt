@@ -1,0 +1,5 @@
+c:\Новая папка\TestProg\PointOfInterest\PointOfInterest\bin\PointOfInterest.dll
+c:\Новая папка\TestProg\PointOfInterest\PointOfInterest\bin\PointOfInterest.pdb
+c:\Новая папка\TestProg\PointOfInterest\PointOfInterest\obj\Debug\PointOfInterest.csprojResolveAssemblyReference.cache
+c:\Новая папка\TestProg\PointOfInterest\PointOfInterest\obj\Debug\PointOfInterest.dll
+c:\Новая папка\TestProg\PointOfInterest\PointOfInterest\obj\Debug\PointOfInterest.pdb

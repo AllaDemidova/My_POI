@@ -1,0 +1,41 @@
+﻿<html>
+    <head>
+        <title>PointOfInterest</title>
+
+        <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?libraries=places&sensor=false"></script> 
+        <script src="http://api-maps.yandex.ru/1.0/?key=AKNDDUoBAAAAfe0BbQIAEtcNGy1F_oFHPr6tECBOZVwK1aMAAAAAAAAAAAD18D0exC3MTF2xGklAkkO-lE-fmg==" type="text/javascript"></script>
+        <script data-main="js/init" src="js/lib/require.js"></script>
+
+    
+        <style>
+            .searcher-results {
+                float: left;
+                width: 300px;
+           
+            }
+            .massage
+            {
+                margin: 5px 2px 2px;
+            }
+
+            #map {
+                width: 80%;
+                margin-left: 305px !important;
+               
+            }
+            .popup {
+                width: 250px;
+            
+            }
+
+        </style> 
+    </head>
+
+    <body>
+        <div id="container">
+            <div class="searcher-results"> </div>
+            <div id="map"></div>            
+        </div>
+        <div id="googleMap"></div>
+    </body>
+</html>
