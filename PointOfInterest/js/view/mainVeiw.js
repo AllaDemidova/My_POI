@@ -22,10 +22,7 @@
                 
                 var yandexSearchModule = new YandexSearchModule({ collection: coll });
                 var googleSearchModule = new GoogleSearchModule({collection: coll});                              
-                var yandexAndGoogleSearchModule = new YandexAndGoogleSearchModule({collection: coll, yandex: yandexSearchModule, google: googleSearchModule});
-                            
-                //var searcher = new Searcher({ map: Map, yandex: yandexSearchModule, google: googleSearchModule, model: searcherModel });
-                //this.$el.append(searcher.render().el);
+                var yandexAndGoogleSearchModule = new YandexAndGoogleSearchModule({collection: coll, yandex: yandexSearchModule, google: googleSearchModule});                            
 
                 for (var i = 0; i < 2; i++){
                     var searcher = new Searcher({ map: Map, yandex: yandexSearchModule, google: googleSearchModule, yandexAndGoogle: yandexAndGoogleSearchModule, model: searcherModel });

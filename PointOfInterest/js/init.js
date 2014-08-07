@@ -1,7 +1,6 @@
 ﻿requirejs.config({
     "paths": {
         OpenLayers: 'lib/OpenLayers',
-        OL_Yandex: 'lib/OL_Yandex',
         jquery: 'lib/jquery',
         underscore: 'lib/underscore',
         backbone: 'lib/backbone',        

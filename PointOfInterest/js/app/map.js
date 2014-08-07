@@ -1,4 +1,4 @@
-﻿define(['OpenLayers', 'lib/OpenLayers.debug', 'OL_Yandex'], function (maps, debug, olYandexMap) {
+﻿define(['OpenLayers', 'lib/OpenLayers.debug'], function (maps, debug) {
     function Map() {
         
         var map = new OpenLayers.Map('map');
